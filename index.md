@@ -49,7 +49,7 @@ They are also required to abide by Software Carpentry's <a href="https://softwar
 
 <p id="contact">
   <strong>Contact</strong>:
-  Please email s.stapleton@qut.edu.au.html for more information.
+  Please email <a href="mailto:stapleton@qut.edu.au"> for more information.
 </p>
 
 <hr/>
