@@ -20,7 +20,8 @@ collaborative_notes: http://pad.software-carpentry.org/qut20181             # op
 For more information on what we teach and why, please see the paper <a href="http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745">"Best Practices for Scientific Computing"</a>.
 
 <strong>Who:</strong>
- The course is aimed at QUT HDR students researchers. <strong>You don't need to have any previous knowledge of the tools that will be presented at the workshop.</strong>  
+ The course is aimed at QUT HDR students researchers. 
+ <strong>You don't need to have any previous knowledge of the tools that will be presented at the workshop.</strong>  
 
 <strong>Where:</strong>
 Room 607, Z9 Block, CI Precinct, QUT Kelvin Grove, Brisbane.
@@ -48,7 +49,7 @@ They are also required to abide by Software Carpentry's <a href="https://softwar
 
 <p id="contact">
   <strong>Contact</strong>:
-  Please email s.stapleton@qut.edu.au for more information.
+  Please email s.stapleton@qut.edu.au.html for more information.
 </p>
 
 <hr/>
