@@ -21,6 +21,7 @@ For more information on what we teach and why, please see the paper <a href="htt
 
 <strong>Who:</strong>
  The course is aimed at QUT HDR students researchers. <strong>You don't need to have any previous knowledge of the tools that will be presented at the workshop.</strong>  
+
 <strong>Where:</strong>
 Room 607, Z9 Block, CI Precinct, QUT Kelvin Grove, Brisbane.
   Get directions with <a href="https://www.google.com.au/maps/place/Z9+QUT+Creative+Industries+Precinct/@-27.4561946,153.0089904,16z/data=!4m5!3m4!1s0x6b915755e73a6a0b:0x5aa88c58a4823fd!8m2!3d-27.456197!4d153.0133678?hl=en">Google Maps</a>.
