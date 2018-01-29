@@ -25,11 +25,12 @@ For more information on what we teach and why, please see the paper <a href="htt
 <strong>Where:</strong>
 Room 607, Z9 Block, CI Precinct, QUT Kelvin Grove, Brisbane.
   Get directions with <a href="https://www.google.com.au/maps/place/Z9+QUT+Creative+Industries+Precinct/@-27.4561946,153.0089904,16z/data=!4m5!3m4!1s0x6b915755e73a6a0b:0x5aa88c58a4823fd!8m2!3d-27.456197!4d153.0133678?hl=en">Google Maps</a>.
-</p>
+
 <strong>When:</strong>
 Tuesday-Wednesday 20-21 February 2018
+
 <p id="requirements">
-  <strong>Requirements:</strong> Participants must bring a laptop with a
+<strong>Requirements:</strong> Participants must bring a laptop with a
   Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges
   on. They should have a few specific software packages installed (listed
   <a href="#setup">below</a>). They are also required to abide by
