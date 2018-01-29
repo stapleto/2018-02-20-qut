@@ -98,13 +98,59 @@ They are also required to abide by Software Carpentry's <a href="https://softwar
 
 <h2 id="syllabus">Syllabus</h2>
 
-{% if page.carpentry == "swc" %}
-  {% include sc/syllabus.html %}
-{% elsif page.carpentry == "dc" %}
-  {% include dc/syllabus.html %}
-{% elsif page.carpentry == "lc" %}
-  {% include lc/syllabus.html %}
-{% endif %}
+<div class="row">
+  <div class="col-md-6">
+    <h3 id="syllabus-shell">The Unix Shell</h3>
+    <ul>
+      <li>Files and directories</li>
+      <li>History and tab completion</li>
+      <li>Pipes and redirection</li>
+      <li>Looping over files</li>
+      <li>Creating and running shell scripts</li>
+      <li>Finding things</li>
+      <li><a href="{{site.swc_pages}}/shell-novice/reference">Reference...</a></li>
+    </ul>
+  </div>
+  <div class="col-md-6">
+  
+  <div class="col-md-6">
+    <h3 id="syllabus-r">Programming in R</h3>
+    <ul>
+      <li>Working with vectors and data frames</li>
+      <li>Reading and plotting data</li>
+      <li>Creating and using functions</li>
+      <li>Loops and conditionals</li>
+      <li>Using R from the command line</li>
+      <li><a href="{{site.swc_pages}}/r-novice-inflammation/reference">Reference...</a></li>
+    </ul>
+ 
+<div class="row">
+  <div class="col-md-6">
+    <h3 id="syllabus-git">Version Control with Git</h3>
+    <ul>
+      <li>Creating a repository</li>
+      <li>Recording changes to files: <code>add</code>, <code>commit</code>, ...</li>
+      <li>Viewing changes: <code>status</code>, <code>diff</code>, ...</li>
+      <li>Ignoring files</li>
+      <li>Working on the web: <code>clone</code>, <code>pull</code>, <code>push</code>, ...</li>
+      <li>Resolving conflicts</li>
+      <li>Open licenses</li>
+      <li>Where to host work, and why</li>
+      <li><a href="{{site.swc_pages}}/git-novice/reference">Reference...</a></li>
+    </ul>
+  </div>
+    
+  <div class="col-md-6">
+    <h3 id="syllabus-r">Open Refine</h3>
+    <ul>
+      <li>Introduction to OpenRefine</li>
+      <li>Importing data</li>
+      <li>Basic functions</li>
+      <li>Advanced Functions</li>
+      <li><a href="{{site.lc_pages}}library-openrefine/reference">Reference...</a></li>
+    </ul>
+  </div>
+</div>
 
 <hr/>
 
