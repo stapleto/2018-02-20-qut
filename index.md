@@ -19,60 +19,11 @@ collaborative_notes: http://pad.software-carpentry.org/qut20181             # op
 
 For more information on what we teach and why, please see the paper <a href="http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745">"Best Practices for Scientific Computing"</a>.
 
-Who: The course is aimed at graduate students and other researchers. You don't need to have any previous knowledge of the tools that will be presented at the workshop.
-
-Where: Room 307, S Block, QUT Gardens Point Campus. Get directions with Google Maps.
-
-When: 31 October - 1 November, 2017. Add to your Google Calendar.
-
-Requirements: Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed below). They are also required to abide by Software Carpentry's Code of Conduct.
-
-Accessibility: We are committed to making this workshop accessible to everybody. The workshop organisers have checked that:
-
-    The room is wheelchair / scooter accessible.
-    Accessible toilets are available.
-
-Contact: Please email s.stapleton@qut.edu.au for more information. 
-
-All participants are required to abide by Software Carpentry's Code of Conduct. 
-{% if page.carpentry == "swc" %}
-  {% include sc/intro.html %}
-{% elsif page.carpentry == "dc" %}
-  {% include dc/intro.html %}
-{% elsif page.carpentry == "lc" %}
-  {% include lc/intro.html %}
-{% endif %}
-
-{% comment %}
-  AUDIENCE
-
-  Explain who your audience is.  (In particular, tell readers if the
-  workshop is only open to people from a particular institution.
-{% endcomment %}
-{% if page.carpentry == "swc" %}
-  {% include sc/who.html %}
-{% elsif page.carpentry == "dc" %}
-  {% include dc/who.html %}
-{% elsif page.carpentry == "lc" %}
-  {% include lc/who.html %}
-{% endif %}
-
-{% comment %}
-  LOCATION
-
-  This block displays the address and links to maps showing directions
-  if the latitude and longitude of the workshop have been set.  You
-  can use http://itouchmap.com/latlong.html to find the lat/long of an
-  address.
-{% endcomment %}
-{% if page.latlng %}
-<p id="where">
-  <strong>Where:</strong>
-  {{page.address}}.
-  Get directions with
-  <a href="//www.openstreetmap.org/?mlat={{page.latlng | replace:',','&mlon='}}&zoom=16">OpenStreetMap</a>
-  or
-  <a href="//maps.google.com/maps?q={{page.latlng}}">Google Maps</a>.
+<strong>Who:</strong>
+ The course is aimed at QUT HDR students researchers. <strong>You don't need to have any previous knowledge of the tools that will be presented at the workshop.</strong>  
+<strong>Where:</strong>
+Room 607, Z9 Block, CI Precinct, QUT Kelvin Grove, Brisbane.
+  Get directions with <a href="https://www.google.com.au/maps/place/Z9+QUT+Creative+Industries+Precinct/@-27.4561946,153.0089904,16z/data=!4m5!3m4!1s0x6b915755e73a6a0b:0x5aa88c58a4823fd!8m2!3d-27.456197!4d153.0133678?hl=en">Google Maps</a>.
 </p>
 {% endif %}
 
