@@ -2,7 +2,7 @@
 # Values for this workshop.
 #------------------------------------------------------------
 
-# Which carpentry is this ("swc", "dc", or "lc")?
+# "swc"
 carpentry: "swc"
 
 # Overall title for pages.
