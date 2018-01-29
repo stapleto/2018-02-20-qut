@@ -460,14 +460,12 @@ They are also required to abide by Software Carpentry's <a href="https://softwar
       </ol>
     </div>
   </div>
-{% comment %}
   <p>
   Once you are done installing the software listed above,
   please go to <a href="setup/index.html">this page</a>,
   which has instructions on how to test that everything was installed correctly.
   </p>
-{% endcomment %}
-</div> {% comment %} End of 'Python' section. {% endcomment %}
+
 
 
 <div id="openrefine">
@@ -515,9 +513,7 @@ They are also required to abide by Software Carpentry's <a href="https://softwar
       <p>If you are using a different browser, or if OpenRefine does not automatically open for you, point your browser at <a href="http://127.0.0.1:3333/">http://127.0.0.1:3333/</a> or <a href="http://localhost:3333">http://localhost:3333</a> to use the program.</p>
     </div>
   </div>
-</div> {% comment %} End of 'OpenRefine' section. {% endcomment %}
 
-{% comment %}
 <div id="vm">
   <h3>Virtual Machine</h3>
 
