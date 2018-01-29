@@ -33,15 +33,8 @@ Tuesday-Wednesday 20-21 February 2018
 <strong>Requirements:</strong> Participants must bring a laptop with a
   Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges
   on. They should have a few specific software packages installed (listed
-  <a href="#setup">below</a>). They are also required to abide by
-  {% if page.carpentry == "swc" %}
-  Software Carpentry's
-  {% elsif page.carpentry == "dc" %}
-  Data Carpentry's
-  {% elsif page.carpentry == "lc" %}
-  Library Carpentry's
-  {% endif %}
-  <a href="{{site.swc_site}}/conduct.html">Code of Conduct</a>.
+  <a href="#setup">below</a>). 
+They are also required to abide by Software Carpentry's <a href="https://software-carpentry.org/conduct.html">Code of Conduct</a>.
 </p>
 
 {% comment %}
