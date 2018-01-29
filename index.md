@@ -16,17 +16,24 @@ collaborative_notes: http://pad.software-carpentry.org/qut20181             # op
 ---
 <h2 id="general">General Information</h2>
   INTRODUCTION
-   Software Carpentry and Data Carpentry's mission is to help scientists and engineers get more research done in less time and with less pain by teaching them basic lab skills for scientific computing. This hands-on two-day workshop covers the basics of educational psychology and instructional design, and looks at how to use these ideas in both intensive workshops and regular classes.
+<a href="https://software-carpentry.org/">Software Carpentry</a> aims to help researchers get their work done in less time and with less pain by teaching them basic research computing skills. This hands-on workshop will cover basic concepts and tools, including program design, version control, data management, and task automation. Participants will be encouraged to help one another and to apply what they have learned to their own research problems.
 
-The workshop is a mix of lectures and hands-on lessons where you practice giving a short lesson using approaches learned and implement some of the teaching techniques which we will discuss. This is training for teaching, not technical training; you do not need any particular technical background, and we will not be teaching that. This workshop is based on the constantly revised and updated curriculum.
+For more information on what we teach and why, please see our paper "Best Practices for Scientific Computing".
 
-Who: The course is aimed at everyone who is interested in becoming a better teacher. In particular, this training is aimed at those who want to become Software and Data Carpentry instructors, run workshops and contribute to the Carpentry training materials. You don't currently have to be an instructor or a teacher to attend this workshop, but you do need to be willing and committed to becoming one and to improving your teaching techniques.
+Who: The course is aimed at graduate students and other researchers. You don't need to have any previous knowledge of the tools that will be presented at the workshop.
 
-Where: The Boardroom, St Leo's College, The University of Queensland, St Lucia Campus. Get directions with OpenStreetMap or Google Maps.
+Where: Room 307, S Block, QUT Gardens Point Campus. Get directions with Google Maps.
 
-Requirements: Participants should bring a laptop that is Internet connected and has a functioning browser. If you have it, a device for recording audio and video (mobile phones and laptops are OK) is useful as throughout the two days, we are going to record one another teaching in pairs or threes. It does not have to be high-quality, but it should be good enough that you can understand what someone is saying.
+When: 31 October - 1 November, 2017. Add to your Google Calendar.
 
-Please note that after this course is over, you will be asked to do three short follow-up exercises online in order to finish qualifying as an instructor: the details are available at https://swcarpentry.github.io/instructor-training/checkout/. If you have any questions about the workshop, the reading material, or anything else, please get in touch.
+Requirements: Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed below). They are also required to abide by Software Carpentry's Code of Conduct.
+
+Accessibility: We are committed to making this workshop accessible to everybody. The workshop organisers have checked that:
+
+    The room is wheelchair / scooter accessible.
+    Accessible toilets are available.
+
+Contact: Please email s.stapleton@qut.edu.au for more information. 
 
 All participants are required to abide by Software Carpentry's Code of Conduct. 
 {% if page.carpentry == "swc" %}
