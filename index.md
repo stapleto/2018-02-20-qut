@@ -122,6 +122,7 @@ They are also required to abide by Software Carpentry's <a href="https://softwar
       <li>Using R from the command line</li>
       <li><a href="{{site.swc_pages}}/r-novice-inflammation/reference">Reference...</a></li>
     </ul>
+</div>
  
 <div class="row">
   <div class="col-md-6">
