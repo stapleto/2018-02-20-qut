@@ -63,19 +63,10 @@ They are also required to abide by Software Carpentry's <a href="https://softwar
 {% endcomment %}
 <h2 id="schedule">Schedule</h2>
 
-{% comment %} DO NOT EDIT SURVEY LINKS {% endcomment %}
 <p><em>Surveys</em></p>
-{% if page.carpentry == "swc" %} 
 <p>Please be sure to complete these surveys before and after the workshop.</p>
 <p><a href="{{ site.swc_pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
 <p><a href="{{ site.swc_post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
-{% elsif page.carpentry == "dc" %}
-  <p>Please be sure to complete these surveys before and after the workshop.</p>
-<p><a href="{{ site.dc_pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
-<p><a href="{{ site.dc_post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
-{% elsif page.carpentry == "lc" %}
-<p>Ask your instructor about pre- and post-workshop Survey details.</p>
-{% endif %}
 
 
 {% if page.carpentry == "swc" %}
@@ -86,21 +77,9 @@ They are also required to abide by Software Carpentry's <a href="https://softwar
   {% include lc/schedule.html %}
 {% endif %}
 
-{% comment %}
-  Collaborative Notes
-
-  If you want to use an Etherpad, go to
-
-      http://pad.software-carpentry.org/YYYY-MM-DD-site
-
-  where 'YYYY-MM-DD-site' is the identifier for your workshop,
-  e.g., '2015-06-10-esu'.
-{% endcomment %}
-{% if page.collaborative_notes %}
 <p id="collaborative_notes">
-  We will use this <a href="{{page.collaborative_notes}}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
+  We will use this <a href="http://pad.software-carpentry.org/qut20181">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
 </p>
-{% endif %}
 
 <hr/>
 
