@@ -15,10 +15,9 @@ email: ["s.stapleton@qut.edu.au"]    # boxed, comma-separated list of contact em
 collaborative_notes: http://pad.software-carpentry.org/qut20181             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 ---
 <h2 id="general">General Information</h2>
-  INTRODUCTION
 <a href="https://software-carpentry.org/">Software Carpentry</a> aims to help researchers get their work done in less time and with less pain by teaching them basic research computing skills. This hands-on workshop will cover basic concepts and tools, including program design, version control, data management, and task automation. Participants will be encouraged to help one another and to apply what they have learned to their own research problems.
 
-For more information on what we teach and why, please see our paper "Best Practices for Scientific Computing".
+For more information on what we teach and why, please see the paper <a href="http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745">"Best Practices for Scientific Computing"</a>.
 
 Who: The course is aimed at graduate students and other researchers. You don't need to have any previous knowledge of the tools that will be presented at the workshop.
 
