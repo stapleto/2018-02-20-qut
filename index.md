@@ -111,8 +111,7 @@ They are also required to abide by Software Carpentry's <a href="https://softwar
       <li><a href="{{site.swc_pages}}/shell-novice/reference">Reference...</a></li>
     </ul>
   </div>
-  <div class="col-md-6">
-  
+   
   <div class="col-md-6">
     <h3 id="syllabus-r">Programming in R</h3>
     <ul>
