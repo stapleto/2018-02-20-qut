@@ -25,26 +25,8 @@ For more information on what we teach and why, please see the paper <a href="htt
 Room 607, Z9 Block, CI Precinct, QUT Kelvin Grove, Brisbane.
   Get directions with <a href="https://www.google.com.au/maps/place/Z9+QUT+Creative+Industries+Precinct/@-27.4561946,153.0089904,16z/data=!4m5!3m4!1s0x6b915755e73a6a0b:0x5aa88c58a4823fd!8m2!3d-27.456197!4d153.0133678?hl=en">Google Maps</a>.
 </p>
-{% endif %}
-
-{% comment %}
-  DATE
-
-  This block displays the date and links to Google Calendar.
-{% endcomment %}
-{% if page.humandate %}
-<p id="when">
-  <strong>When:</strong>
-  {{page.humandate}}.
-  {% include workshop_calendar.html %}
-</p>
-{% endif %}
-
-{% comment %}
-  SPECIAL REQUIREMENTS
-
-  Modify the block below if there are any special requirements.
-{% endcomment %}
+<strong>When:</strong>
+Tuesday-Wednesday 20-21 February 2018
 <p id="requirements">
   <strong>Requirements:</strong> Participants must bring a laptop with a
   Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges
