@@ -148,7 +148,7 @@ They are also required to abide by Software Carpentry's <a href="https://softwar
       <li>Importing data</li>
       <li>Basic functions</li>
       <li>Advanced Functions</li>
-      <li><a href="http://data-lessons.github.io/library-openrefine/reference/">Reference...</a></li>
+      <li><a href=http://data-lessons.github.io/library-openrefine/reference/>Reference...</a></li>
     </ul>
   </div>
 </div>
