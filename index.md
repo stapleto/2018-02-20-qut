@@ -20,7 +20,7 @@ collaborative_notes: http://pad.software-carpentry.org/qut20181             # op
 For more information on what we teach and why, please see the paper <a href="http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745">"Best Practices for Scientific Computing"</a>.
 
 <strong>Who:</strong>
-The course is aimed at QUT HDR students researchers. 
+The course is aimed at Higher Degree Research students or researchers. This course has been modified for working with or within QUT. 
 <strong>You don't need to have any previous knowledge of the tools that will be presented at the workshop.</strong>  
 
 <strong>Where:</strong>
